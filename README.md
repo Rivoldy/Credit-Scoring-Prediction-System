@@ -16,4 +16,3 @@ Credit Scoring Prediction System adalah proyek machine learning yang menggunakan
 ![Hasil Program](https://github.com/Rivoldy/Credit-Scoring-Prediction-System/blob/main/Screenshot%20(255).png)
 ![Hasil Program](https://github.com/Rivoldy/Credit-Scoring-Prediction-System/blob/main/Screenshot%20(256).png)
 ![Hasil Program](https://github.com/Rivoldy/Credit-Scoring-Prediction-System/blob/main/Screenshot%20(257).png)
-![Hasil Program](https://github.com/Rivoldy/Credit-Scoring-Prediction-System/blob/main/Screenshot%20(258).png)
